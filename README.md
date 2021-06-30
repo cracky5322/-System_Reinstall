@@ -20,8 +20,12 @@
 >Office for Mac、Windows 7、Windows 8.1 和 Windows 10 (ISO) 的特性。
 
 1. 至 [HeiDoc.net](HeiDoc.net) 下載 [Microsoft Windows and Office ISO Download Tool](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-
-2. 第二行
+![步驟 - 1](https://github.com/cracky5322/System_Reinstall/blob/main/image/Microsoft-Windows-and-Office-ISO-Download-Tool/1.png?raw=true "步驟 - 1")
+2. 下載完成後開啟 Windows-ISO-Downloader.exe 並依據需求選擇並下載 ISO 安裝檔
+![步驟 - 2](https://github.com/cracky5322/System_Reinstall/blob/main/image/Microsoft-Windows-and-Office-ISO-Download-Tool/2.png?raw=true "步驟 - 2")
+![步驟 - 3](https://github.com/cracky5322/System_Reinstall/blob/main/image/Microsoft-Windows-and-Office-ISO-Download-Tool/3.png?raw=true "步驟 - 3")
+![步驟 - 4](https://github.com/cracky5322/System_Reinstall/blob/main/image/Microsoft-Windows-and-Office-ISO-Download-Tool/4.png?raw=true "步驟 - 4")
+![步驟 - 5](https://github.com/cracky5322/System_Reinstall/blob/main/image/Microsoft-Windows-and-Office-ISO-Download-Tool/5.png?raw=true "步驟 - 5")
 3. 第三行
 
 ###### 使用 Windows 7 USB DVD Download Tool 製作 USB 安裝工具
