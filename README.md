@@ -66,7 +66,7 @@
 >KMS 本機伺服器好處是不需要網路，自己的電腦認證自己的電腦，
 >可是缺點相對明顯，很容易讓防毒軟體產生生理反應。
 
-1. 開啟後輸入數字 2 即可開始安裝。
+1. 開啟 KMS_VL_ALL_AIO_zh-TW 後輸入數字 2 即可開始安裝。
 ![步驟 - 4-1](https://github.com/cracky5322/System_Reinstall/blob/main/image/KMS/1.png?raw=true "步驟 - 4-1")
 2. 安裝過程會自動進行排除須排除檔案，可是建議還須自行檢查。
 ![步驟 - 4-2](https://github.com/cracky5322/System_Reinstall/blob/main/image/KMS/2.png?raw=true "步驟 - 4-2")
@@ -76,12 +76,11 @@
 ### 自動化外部驗證
 
 >檔案是個人翻譯成繁體中文，如有任何操作上的問題或是防毒軟體有任何生理反應都與本人無關。
-
 >自動化外部驗證的號處在於只要有網路，就能連線到外部的驗證伺服器驗證，
-
 >優點電腦內相對也不獲有任何資訊讓防毒軟體起生理反應，可是相對缺點就是需要網路才能進行驗證。
 
-
-1. 第一行
-2. 第二行
-3. 第三行
+1. 執行 KMS_VL_ALL_AIO_zh-TW_Auto 後就會自動連線並且驗證。
+![步驟 - 5-1](https://github.com/cracky5322/System_Reinstall/blob/main/image/AUTO/1.png?raw=true "步驟 - 5-1")
+2. 重新開啟 KMS_VL_ALL_AIO_zh-TW並且輸入數字 9 驗證授權狀況。
+![步驟 - 5-2](https://github.com/cracky5322/System_Reinstall/blob/main/image/AUTO/2.png?raw=true "步驟 - 5-2")
+3. 如果安裝的程式均有授權即成功，可將安裝檔案移除。
