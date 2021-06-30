@@ -38,8 +38,8 @@
 2. 下載後執行安裝，等待安裝完成開啟軟體
 3. 開啟後插上需寫入的隨身碟，並依序操作
 ![步驟 - 2-1](https://github.com/cracky5322/System_Reinstall/blob/main/image/Windows-USBDVD-Download-Tool/1.png?raw=true "步驟 - 2-1")
-![步驟 - 2-2](https://github.com/cracky5322/System_Reinstall/blob/main/image/Windows-USBDVD-Download-Tool/1.png?raw=true "步驟 - 2-2")
-![步驟 - 2-3](https://github.com/cracky5322/System_Reinstall/blob/main/image/Windows-USBDVD-Download-Tool/1.png?raw=true "步驟 - 2-3")
+![步驟 - 2-2](https://github.com/cracky5322/System_Reinstall/blob/main/image/Windows-USBDVD-Download-Tool/2.png?raw=true "步驟 - 2-2")
+![步驟 - 2-3](https://github.com/cracky5322/System_Reinstall/blob/main/image/Windows-USBDVD-Download-Tool/3.png?raw=true "步驟 - 2-3")
 4. 進度條跑滿，再度出現 Starv over 基本上就完成了。
 
 ## Office 下載/安裝
